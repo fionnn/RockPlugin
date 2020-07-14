@@ -1,0 +1,7 @@
+name: RockPlugin
+version: ${project.version}
+main: me.fionnn.rockplugin.RockPlugin
+api-version: 1.16
+prefix: [RockPlugin]
+authors: [fionnn]
+description: You have thrown a rock, but you have also thrown a meteor!
